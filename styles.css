@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.music-background-container {
+    background-color: #03174c;
+    height: 100vh;
+}
+
+.music-container1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    height: 40vh;
+    background-size: cover;
+    padding: 30px;
+}
+
+.main-heading {
+    color: white;
+    font-family: "Roboto";
+}
+
+.music-container2 {
+    padding: 30px;
+}
+
+.music-container2-background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    background-size: cover;
+    height: 23vh;
+    margin-bottom: 5px;
+}
+
+.container2-heading {
+    color: white;
+    font-family: "bree serif";
+    font-size: 32px;
+    border-top: 30px;
+}
+
+.paragraph1 {
+    color: white;
+    font-family: "bree serif";
+}
+
+.button1 {
+    background-color: #8e97fd;
+    border-radius: 15px;
+    color: white;
+    width: 120px;
+    font-family: "bree serif";
+    margin-top: 10px;
+}
+
+.background2 {
+    background-color: #03174c;
+    height: 100vh;
+}
+
+.sleepcontainer1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/clouds-img.png");
+    height: 40vh;
+    background-size: cover;
+}
+
+.sub-container {
+    padding: 30px;
+}
+
+.container2-heading {
+    color: white;
+    font-family: "bree serif";
+}
+
+.paragraph3 {
+    color: #98a1bd;
+    font-family: "bree serif";
+}
+
+.sub-heading3 {
+    color: white;
+    font-family: "bree serif";
+}
+
+.image4 {
+    padding: 5px;
+    height: 100px;
+    width: 150px;
+}
+
+.button4 {
+    background-color: #8e97fd;
+    border-radius: 15px;
+    width: 90px;
+    color: white;
+}
